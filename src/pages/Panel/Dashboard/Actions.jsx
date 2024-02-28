@@ -92,7 +92,7 @@ const Actions = () => {
                         type='text'
                         onChange={handleInputChange}
                         required
-                        placeholder='https://ravendev.xyz/'
+                        placeholder='https://skyeuptime.com/'
                         className='duration-300 shadow-md rounded-md bg-gray-800 text-white px-2 h-8 w-full outline-none focus:ring-2 ring-indigo-600 mb-4 sm:mb-0'
                     />
                 </div>
