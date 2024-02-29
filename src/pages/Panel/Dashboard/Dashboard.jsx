@@ -119,7 +119,7 @@ const Dashboard = () => {
               type='text'
               onChange={handleInputChange}
               required
-              placeholder='https://ravendev.xyz/' className='duration-300 shadow-md rounded-md bg-gray-800 text-white px-2 lg:w-80 h-8 outline-none focus:ring-2 ring-indigo-600 mb-4 sm:mb-0 ml-0 sm:ml-4' />
+              placeholder='https://skyeuptime.com/' className='duration-300 shadow-md rounded-md bg-gray-800 text-white px-2 lg:w-80 h-8 outline-none focus:ring-2 ring-indigo-600 mb-4 sm:mb-0 ml-0 sm:ml-4' />
             <button type='submit' className='border-none btn btn-sm w-full sm:w-0 sm:px-12 bg-indigo-600 hover:bg-indigo-700 active:ring-1 ring-indigo-700 text-white ml-0 sm:ml-2'>Ekle</button>
           </div>
         </form>
